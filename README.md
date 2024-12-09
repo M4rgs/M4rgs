@@ -1,10 +1,7 @@
 </p>
 <p align="center">  
-<img src ="https://i.pinimg.com/originals/14/fc/7d/14fc7d1120735dd8e2064a38913ea339.gif">
+<img src ="https://cdn.dribbble.com/users/2495095/screenshots/6022014/media/bde6ebc855e312547d5f791f427de779.gif">
 </p>
-
-
-
 
 <p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/tamounir" alt="tamounir's 42 stats" /></a>
