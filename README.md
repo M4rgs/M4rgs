@@ -28,7 +28,7 @@
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
 ├─◈ <a href="https://www.instagram.com/xe.mg">Instagram</a>
-├─◈ Discord: achrafelkhnissi#2244
+├─◈ Discord: xe.mg
 │
 └───────────────────────────────▰▰▰
 
