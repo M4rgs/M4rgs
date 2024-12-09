@@ -35,7 +35,7 @@
 ┌──┤ 42 PROJECTS ├───────▰▰▰
 │
 ├─◈ <a href="github.com/M4rgs/Picine-2024">Piscine 2024</a>
-├─◈ <a href="https://github.com/M4rgs/libftt">libft</a>
+├─◈ <a href="https://github.com/M4rgs/libft">Libft</a>
 ├─◈ <a href="https://github.com/M4rgs/Get_Next_Line">Get_Next_Line</a>
 ├─◈ <a href="https://github.com/M4rgs/Get_Next_Line">My_Printf</a>
 │
