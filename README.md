@@ -39,6 +39,7 @@
 ├─◈ <a href="https://github.com/M4rgs/Get_Next_Line">Get_Next_Line</a>
 ├─◈ <a href="https://github.com/M4rgs/MyPrintf">My_Printf</a>
 ├─◈ <a href="https://github.com/M4rgs/MiniTalk42">MiniTalk</a>
+├─◈ <a href="https://github.com/M4rgs/so_long">So_long</a>
 │
 └───────────────────────────────▰▰▰
 
