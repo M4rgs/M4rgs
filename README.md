@@ -43,6 +43,13 @@
 │
 └───────────────────────────────▰▰▰
 
+┌──┤ PENTESTING PROJECTS ├───────▰▰▰
+│
+├─◈ <a href="https://github.com/M4rgs/MargBot-V4/">MargBot Expl0it</a>
+├─◈ <a href="https://github.com/M4rgs/ZoneH-Grabber/">Zone-H GraBBer</a>
+│
+└───────────────────────────────▰▰▰
+
 <!--
 ┌──┤ COMMUNITY ├─────────▰▰▰
 │
