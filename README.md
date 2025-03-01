@@ -8,11 +8,6 @@
 >  "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 
-<p align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/tamounir" alt="tamounir's 42 stats" /></a>
-</p>
-
-
 
 <pre>
 
