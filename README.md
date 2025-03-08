@@ -29,12 +29,13 @@
 
 ┌──┤ 42 PROJECTS ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/M4rgs/1337_Piscine/">1337 Piscine</a>
+├─◈ <a href="https://github.com/M4rgs/1337_Piscine">1337 Piscine</a>
 ├─◈ <a href="https://github.com/M4rgs/libft">Libft</a>
 ├─◈ <a href="https://github.com/M4rgs/Get_Next_Line">Get_Next_Line</a>
 ├─◈ <a href="https://github.com/M4rgs/MyPrintf">My_Printf</a>
 ├─◈ <a href="https://github.com/M4rgs/MiniTalk42">MiniTalk</a>
 ├─◈ <a href="https://github.com/M4rgs/so_long">So_long</a>
+├─◈ <a href="https://github.com/M4rgs/Push_Swap">Push_Swap</a>
 │
 └───────────────────────────────▰▰▰
 
@@ -44,15 +45,6 @@
 ├─◈ <a href="https://github.com/M4rgs/ZoneH-Grabber/">Zone-H GraBBer</a>
 │
 └───────────────────────────────▰▰▰
-
-<!--
-┌──┤ COMMUNITY ├─────────▰▰▰
-│
-├─◈ If you need any help please join our community.
-├─◈ <a href="https://discord.gg/vTvkDgsS6J">Discord Server</a>
-│
-└───────────────────────────────▰▰▰
--->
 
 </pre>
 
