@@ -34,7 +34,7 @@
 ├─◈ <a href="https://github.com/M4rgs/Get_Next_Line">Get_Next_Line</a>
 ├─◈ <a href="https://github.com/M4rgs/MyPrintf">My_Printf</a>
 ├─◈ <a href="https://github.com/M4rgs/MiniTalk42">MiniTalk</a>
-├─◈ <a href="https://github.com/M4rgs/so_long">So_long</a>
+├─◈ <a href="https://github.com/M4rgs/so_long_42">So_long</a>
 ├─◈ <a href="https://github.com/M4rgs/Push_Swap">Push_Swap</a>
 │
 └───────────────────────────────▰▰▰
@@ -43,6 +43,7 @@
 │
 ├─◈ <a href="https://github.com/M4rgs/MargBot-V4/">MargBot Expl0it</a>
 ├─◈ <a href="https://github.com/M4rgs/ZoneH-Grabber/">Zone-H GraBBer</a>
+├─◈ <a href="https://github.com/M4rgs/42-Donations-Points/">42 Donate to the poool</a>
 │
 └───────────────────────────────▰▰▰
 
