@@ -36,6 +36,7 @@
 ├─◈ <a href="https://github.com/M4rgs/MiniTalk42">MiniTalk</a>
 ├─◈ <a href="https://github.com/M4rgs/so_long_42">So_long</a>
 ├─◈ <a href="https://github.com/M4rgs/Push_Swap">Push_Swap</a>
+├─◈ <a href="https://github.com/M4rgs/Philosophers">Philosophers</a>
 │
 └───────────────────────────────▰▰▰
 
