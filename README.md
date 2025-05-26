@@ -44,8 +44,6 @@
 │
 ├─◈ <a href="https://github.com/M4rgs/MargBot-V4/">MargBot Expl0it</a>
 ├─◈ <a href="https://github.com/M4rgs/ZoneH-Grabber/">Zone-H GraBBer</a>
-├─◈ <a href="https://github.com/M4rgs/42-Donations-Points/">42 Donate to the poool</a>
-├─◈ <a href="https://github.com/M4rgs/42_profile_scrapper/">42 Profile Scrapper</a>
 │
 └───────────────────────────────▰▰▰
 
