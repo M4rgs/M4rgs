@@ -11,14 +11,15 @@
 
 <pre>
 
-┌──┤ WHOAMI ├─────────▰▰▰
-│
-├─▣ Student at 1337 Khouribga
-├─▣ From Agadir Morocco
-├─▣ Up to the challenge.
-├─▣ Interested in low-level Programming, CyberSecurity and Networking.
-│
-└───────────────────────────────▰▰▰
+┌──┤ WHOAMI ├─────────▰▰▰  
+│  
+├─▣ Student at 1337 Khouribga.  
+├─▣ From Agadir, Morocco.
+├─▣ Up to the challenge.  
+├─▣ Passionate about Low-Level.
+├─▣ Skilled in C, C++ and Penetration Testing.  
+│  
+└───────────────────────────────▰▰▰ 
 
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
