@@ -16,7 +16,7 @@
             <tr>
                <td colspan="4">
                <a href="https://www.codingame.com/certification/dtotXt5jXSAU81AFRMpU-A">
-                <img src="https://raw.githubusercontent.com/M4rgs/M4rgs/main/docs/assets/img/CodingGame_cpp.jpg" width="220px" /></a></td>
+                <img src="https://raw.githubusercontent.com/M4rgs/M4rgs/refs/heads/main/docs/assets/img/CodingGame_cpp.jpg" width="220px" /></a></td>
             </tr>
             <tr />
             <tr>
@@ -29,27 +29,27 @@
                <td align="center">
                   <a href="https://www.codingame.com/certification/dtotXt5jXSAU81AFRMpU-A">
                      <picture>
-                        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M4rgs/M4rgs/main/docs/assets/icons/icon-demo-light.svg" />
-                        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M4rgs/M4rgs/main/docs/assets/icons/icon-demo-dark.svg" />
-                        <img align="center" src="https://raw.githubusercontent.com/M4rgs/M4rgs/main/docs/assets/icons/icon-demo-light.svg" width="18px" height="18px" />
+                        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M4rgs/M4rgs/refs/heads/main/docs/assets/icons/icon-demo-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M4rgs/M4rgs/refs/heads/main/docs/assets/icons/icon-demo-dark.svg" />
+                        <img align="center" src="https://raw.githubusercontent.com/M4rgs/M4rgs/refs/heads/main/docs/assets/icons/icon-demo-light.svg" width="18px" height="18px" />
                      </picture>
                   </a>
                </td>
                <td align="center">
                   <a href="https://www.codingame.com/certification/dtotXt5jXSAU81AFRMpU-A">
                      <picture>
-                        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M4rgs/M4rgs/main/docs/assets/icons/icon-pdf-light.svg" />
-                        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M4rgs/M4rgs/main/docs/assets/icons/icon-pdf-dark.svg" />
-                        <img align="center" src="https://raw.githubusercontent.com/M4rgs/M4rgs/main/docs/assets/icons/icon-pdf-light.svg" width="18px" height="18px" />
+                        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M4rgs/M4rgs/refs/heads/main/docs/icons/icon-pdf-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M4rgs/M4rgs/refs/heads/main/docs/assets/icons/icon-pdf-dark.svg" />
+                        <img align="center" src="https://raw.githubusercontent.com/M4rgs/M4rgs/refs/heads/main/docs/icons/icon-pdf-light.svg" width="18px" height="18px" />
                      </picture>
                   </a>
                </td>
                <td align="center">
                   <a href="https://www.codingame.com/certification/dtotXt5jXSAU81AFRMpU-A">
                      <picture>
-                        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M4rgs/M4rgs/main/docs/assets/icons/icon-github-light.svg" />
-                        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M4rgs/M4rgs/main/docs/assets/icons/icon-github-dark.svg" />
-                        <img align="center" src="https://raw.githubusercontent.com/M4rgs/M4rgs/main/docs/assets/icons/icon-github-light.svg" width="18px" height="18px" />
+                        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M4rgs/M4rgs/refs/heads/main/docs/assets/icons/icon-github-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M4rgs/M4rgs/refs/heads/main/docs/assets/icons/icon-github-dark.svg" />
+                        <img align="center" src="https://raw.githubusercontent.com/M4rgs/M4rgs/refs/heads/main/docs/assets/icons/icon-github-light.svg" width="18px" height="18px" />
                      </picture>
                   </a>
                </td>
