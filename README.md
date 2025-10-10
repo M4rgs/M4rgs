@@ -100,6 +100,7 @@
 ├─◈ <a href="https://github.com/M4rgs/ZoneH-Grabber/">Zone-H GraBBer</a>
 ├─◈ <a href="https://github.com/M4rgs/BlitzMap">BlitzMap</a>
 ├─◈ <a href="https://github.com/M4rgs/xxe-injection">XML External Entity Injec</a>
+├─◈ <a href="https://github.com/M4rgs/CVE-2025-5947_Exploit">WP Service Finder Bookings Exploit</a>
 │
 └───────────────────────────────▰▰▰
 
