@@ -13,7 +13,6 @@
 >  [1337](https://1337.ma/en/) Student \
 >  "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
-<pre>
 ### 🎖️ **Certificates**
 
 <table>
@@ -66,6 +65,9 @@
       </td>
    </tr>
 </table>
+
+
+<pre>
 
 ┌──┤ WHOAMI ├─────────▰▰▰  
 │  
