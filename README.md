@@ -14,6 +14,58 @@
 >  "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 <pre>
+### 🎖️ **Certificates**
+
+<table>
+   <tr height="320px">
+      <!-- C++ certificate -->
+      <td>
+         <table>
+            <tr>
+               <td colspan="4">
+               <a href="https://www.codingame.com/certification/dtotXt5jXSAU81AFRMpU-A">
+                <img src="docs/assets/img/CodingGame_cpp.jpg" width="220px" /></a></td>
+            </tr>
+            <tr />
+            <tr>
+               <td width="220px" height="110px" vertical-align="top" colspan="4">
+                <a href="https://www.codingame.com/certification/dtotXt5jXSAU81AFRMpU-A"><strong>C++ certificate</strong></a>, awarded for completing a C++ challenge.
+               </td>
+            </tr>
+            <tr />
+            <tr>
+               <td align="center">
+                  <a href="https://www.codingame.com/certification/dtotXt5jXSAU81AFRMpU-A">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-demo-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-demo-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-demo-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+               <td align="center">
+                  <a href="https://www.codingame.com/certification/dtotXt5jXSAU81AFRMpU-A">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-pdf-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-pdf-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-pdf-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+               <td align="center">
+                  <a href="https://www.codingame.com/certification/dtotXt5jXSAU81AFRMpU-A">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-github-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-github-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-github-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+            </tr>
+         </table>
+      </td>
+   </tr>
+</table>
 
 ┌──┤ WHOAMI ├─────────▰▰▰  
 │  
