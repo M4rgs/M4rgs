@@ -18,7 +18,7 @@
             <tr>
                <td colspan="4">
                <a href="https://www.codingame.com/certification/dtotXt5jXSAU81AFRMpU-A">
-                <img src="docs/assets/img/CodingGame_cpp.jpg" width="220px" /></a></td>
+                <img src="docs/assets/img/CodingGame_cpp.jpeg" width="220px" /></a></td>
             </tr>
             <tr />
             <tr>
