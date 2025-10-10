@@ -8,8 +8,6 @@
 
 ### 🎖️ **Certificates**
 
-### 🎖️ **Certificates**
-
 <table>
    <tr height="320px">
       <!-- C++ certificate -->
