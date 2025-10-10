@@ -1,13 +1,18 @@
-</p>
+<!-- ====== Top banner / GIF (keep yours) ====== -->
 <p align="center">  
-<img src ="https://64.media.tumblr.com/cb845a1538cc5665e8d469bb5ca5fa84/2254dabd36a93216-1e/s540x810/3d4439848b17727c8bfb9f5fc51d88bc80f2aad2.gifv">
+  <img src="https://64.media.tumblr.com/cb845a1538cc5665e8d469bb5ca5fa84/2254dabd36a93216-1e/s540x810/3d4439848b17727c8bfb9f5fc51d88bc80f2aad2.gifv" alt="banner GIF">
+</p>
+
+<!-- ====== CodinGame Certification Badge ====== -->
+<p align="center">
+  <a href="https://www.codingame.com/certification/dtotXt5jXSAU81AFRMpU-A" target="_blank">
+    <img alt="CodinGame Certified" src="https://img.shields.io/badge/-CodinGame%20Certified-blue?style=flat&logo=codingame&logoColor=white" />
+  </a>
 </p>
 
 ## root:~$ whoami
 >  [1337](https://1337.ma/en/) Student \
 >  "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
-
 
 <pre>
 
@@ -20,6 +25,8 @@
 ├─▣ Skilled in C, C++ and Penetration Testing.  
 │  
 └───────────────────────────────▰▰▰ 
+...
+
 
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
