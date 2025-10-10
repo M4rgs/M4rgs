@@ -29,27 +29,27 @@
                <td align="center">
                   <a href="https://www.codingame.com/certification/dtotXt5jXSAU81AFRMpU-A">
                      <picture>
-                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-demo-light.svg" />
-                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-demo-dark.svg" />
-                        <img align="center" src="./docs/assets/icons/icon-demo-light.svg" width="18px" height="18px" />
+                        <source media="(prefers-color-scheme: light)" srcset="https://github.com/M4rgs/M4rgs/blob/main/docs/assets/icons/icon-demo-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/M4rgs/M4rgs/blob/main/docs/assets/icons/icon-demo-dark.svg" />
+                        <img align="center" src="https://github.com/M4rgs/M4rgs/blob/main/docs/assets/icons/icon-demo-light.svg" width="18px" height="18px" />
                      </picture>
                   </a>
                </td>
                <td align="center">
                   <a href="https://www.codingame.com/certification/dtotXt5jXSAU81AFRMpU-A">
                      <picture>
-                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-pdf-light.svg" />
-                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-pdf-dark.svg" />
-                        <img align="center" src="./docs/assets/icons/icon-pdf-light.svg" width="18px" height="18px" />
+                        <source media="(prefers-color-scheme: light)" srcset="https://github.com/M4rgs/M4rgs/blob/main/docs/assets/icons/icon-pdf-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/M4rgs/M4rgs/blob/main/docs/assets/icons/icon-pdf-dark.svg" />
+                        <img align="center" src="https://github.com/M4rgs/M4rgs/blob/main/docs/assets/icons/icon-pdf-light.svg" width="18px" height="18px" />
                      </picture>
                   </a>
                </td>
                <td align="center">
                   <a href="https://www.codingame.com/certification/dtotXt5jXSAU81AFRMpU-A">
                      <picture>
-                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-github-light.svg" />
-                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-github-dark.svg" />
-                        <img align="center" src="./docs/assets/icons/icon-github-light.svg" width="18px" height="18px" />
+                        <source media="(prefers-color-scheme: light)" srcset="https://github.com/M4rgs/M4rgs/blob/main/docs/assets/icons/icon-github-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/M4rgs/M4rgs/blob/main/docs/assets/icons/icon-github-dark.svg" />
+                        <img align="center" src="https://github.com/M4rgs/M4rgs/blob/main/docs/assets/icons/icon-github-light.svg" width="18px" height="18px" />
                      </picture>
                   </a>
                </td>
@@ -58,7 +58,6 @@
       </td>
    </tr>
 </table>
-
 
 <pre>
 
