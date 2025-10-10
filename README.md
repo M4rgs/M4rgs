@@ -1,5 +1,5 @@
 <p align="center">  
-  <img src="https://64.media.tumblr.com/cb845a1538cc5665e8d469bb5ca5fa84/2254dabd36a93216-1e/s540x810/3d4439848b17727c8bfb9f5fc51d88bc80f2aad2.gifv" alt="banner GIF">
+  <img src="https://64.media.tumblr.com/dd0d237f3e35fe54f7f70133bab1ab8e/64336a2000473229-ea/s540x810/00fabeb174d9649c13e261e65a4ef34b48d3af9e.gifv" alt="banner GIF">
 </p>
 
 ## root:~$ whoami
