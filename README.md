@@ -104,6 +104,8 @@
 ├─◈ <a href="https://github.com/M4rgs/ZoneH-Grabber/">Zone-H GraBBer</a>
 ├─◈ <a href="https://github.com/M4rgs/BlitzMap">BlitzMap</a>
 ├─◈ <a href="https://github.com/M4rgs/xxe-injection">XML External Entity Injec</a>
+├─◈ <a href="https://github.com/M4rgs/WPMassUploader">WP Shell Auto Uploader | theme - plugin</a>
+├─◈ <a href="https://github.com/M4rgs/WPLoginChecker">WP Admin Login Checker</a>
 ├─◈ <a href="https://github.com/M4rgs/CVE-2025-5947_Exploit">WP Service Finder Bookings Exploit</a>
 ├─◈ <a href="https://github.com/M4rgs/CVE-2025-55182-React2Shell-Exploit">React2Shell EXploit</a>
 │
