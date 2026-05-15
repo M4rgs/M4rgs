@@ -94,6 +94,7 @@
 ├─◈ <a href="https://github.com/M4rgs/Cpp_Modules">CPP_Modules</a>
 ├─◈ <a href="https://github.com/M4rgs/Python_Modules">Python_Modules</a>
 ├─◈ <a href="https://github.com/M4rgs/Cub3D/">Cub3D</a>
+├─◈ <a href="https://github.com/M4rgs/Internet-Relay-Chat/">ft_IRC</a>
 │
 └───────────────────────────────▰▰▰
 
