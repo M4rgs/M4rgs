@@ -115,7 +115,7 @@
 ├─▣ From Agadir, Morocco.
 ├─▣ Up to the challenge.  
 ├─▣ Passionate about Low-Level.
-├─▣ Skilled in C, C++ and Penetration Testing.  
+├─▣ Skilled in C, C++, Java and Penetration Testing.  
 │  
 └───────────────────────────────▰▰▰ 
 
