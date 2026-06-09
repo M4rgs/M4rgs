@@ -56,6 +56,52 @@
             </tr>
          </table>
       </td>
+      <!-- Java certificate -->
+      <td>
+         <table>
+            <tr>
+               <td colspan="4">
+               <a href="https://www.codingame.com/certification/_Db9Qk2_zS7oTYK4KwARKQ">
+                <img src="docs/img/CodingGame_java.jpeg" width="220px" /></a></td>
+            </tr>
+            <tr />
+            <tr>
+               <td width="220px" height="110px" vertical-align="top" colspan="4">
+                <a href="https://www.codingame.com/certification/_Db9Qk2_zS7oTYK4KwARKQ"><strong>Java certificate</strong></a>, awarded for completing a Java challenge.
+               </td>
+            </tr>
+            <tr />
+            <tr>
+               <td align="center">
+                  <a href="https://www.codingame.com/certification/_Db9Qk2_zS7oTYK4KwARKQ">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M4rgs/M4rgs/main/docs/icons/icon-demo-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M4rgs/M4rgs/main/docs/icons/icon-demo-dark.svg" />
+                        <img align="center" src="https://raw.githubusercontent.com/M4rgs/M4rgs/main/docs/icons/icon-demo-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+               <td align="center">
+                  <a href="https://www.codingame.com/certification/_Db9Qk2_zS7oTYK4KwARKQ">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M4rgs/M4rgs/main/docs/icons/icon-pdf-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M4rgs/M4rgs/main/docs/icons/icon-pdf-dark.svg" />
+                        <img align="center" src="https://raw.githubusercontent.com/M4rgs/M4rgs/main/docs/icons/icon-pdf-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+               <td align="center">
+                  <a href="https://www.codingame.com/certification/_Db9Qk2_zS7oTYK4KwARKQ">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M4rgs/M4rgs/main/docs/icons/icon-github-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M4rgs/M4rgs/main/docs/icons/icon-github-dark.svg" />
+                        <img align="center" src="https://raw.githubusercontent.com/M4rgs/M4rgs/main/docs/icons/icon-github-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+            </tr>
+         </table>
+      </td>
    </tr>
 </table>
 
